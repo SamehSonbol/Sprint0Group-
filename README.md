@@ -3,7 +3,7 @@
    **Sprint 0**
  
  
- ==this repository will contain  the authors name's & ID's== 
+ this repository will contain  the authors ==name's & ID's== 
 
    # Authors
         -Sameh Sonbol 37-3088
