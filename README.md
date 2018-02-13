@@ -1,8 +1,7 @@
 # Sprint0Group-
 
-                                          **Sprint 0**
-                                           
-==this repository will contain  the authors name's & ID's== 
+ **Sprint 0**
+          ==oooh fancy==                                 ==this repository will contain  the authors name's & ID's== 
 
    # Authors
         -Sameh Sonbol 37-3088
