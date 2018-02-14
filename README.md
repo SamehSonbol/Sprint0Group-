@@ -11,7 +11,7 @@
         -Nour Mostafa 37-6251
         -Omar Maged
    # About
-    this repo purpose is to show team memebrs and define them 
+    This repo purpose is to show team memebrs and define them 
     
     
 ![m'lady](https://www.samcodes.co.uk/project/geometrize-haxe-web/assets/images/xseagull.jpg.pagespeed.ic.iK66EGA15-.jpg)
