@@ -17,4 +17,3 @@
     
 ![m'lady](https://www.samcodes.co.uk/project/geometrize-haxe-web/assets/images/xseagull.jpg.pagespeed.ic.iK66EGA15-.jpg)
 
-<span style="color:red">some **This is Red Bold.** text</span>
