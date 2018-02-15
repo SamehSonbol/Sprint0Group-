@@ -9,7 +9,6 @@
         -Sameh Sonbol 37-3088
         -Amr Noaman   37-1499
         -Nour Mostafa 37-6251
-        -Omar Maged
 
    # About
     This repo purpose is to show team memebrs and define them as shown
