@@ -9,12 +9,12 @@
         -Sameh Sonbol 37-3088
         -Amr Noaman   37-1499
         -Nour Mostafa 37-6251
-        -Omar Maged  37-10755
-        hello world
-        
-        
+
    # About
-    This repo purpose is to show team memebrs and define them 
+    This repo purpose is to show team memebrs and define them as shown
     
     
 ![m'lady](https://www.samcodes.co.uk/project/geometrize-haxe-web/assets/images/xseagull.jpg.pagespeed.ic.iK66EGA15-.jpg)
+
+
+
