@@ -3,8 +3,8 @@
    **Sprint 0**
  
  
- <h fontcolor=red>this repository will contain  the authors name's & ID's
-</h>
+ this repository will contain  the authors name's & ID's
+
    
    <h1 style=font-style:italic;background-color: lightblue;> 
 Authors
